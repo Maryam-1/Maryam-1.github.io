@@ -10,6 +10,9 @@ This project is a deep dive into predictive analytics within the UK real estate 
 
 [Check out my Colab Notebook](https://colab.research.google.com/drive/11CPcTIhV490sT0S_GOrAm7-ckDPQinQW?usp=sharing)
 
+<a href="https://github.com/Maryam-1/End-to-End-Chest-Cancer-Classification-using-MLflow-DVC">
+    <img src="images/colab.png" alt="GitHub" width="30" height="30"/>
+</a>
 
 ---
 
