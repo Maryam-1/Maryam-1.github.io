@@ -32,8 +32,17 @@ This project represents a significant stride in medical imaging and cancer class
 
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+**Statistical Analysis of Species Richness: Biodiversity Metrics Analysis with R**
+
+This project delves into the intricacies of biodiversity by examining proportional species richness across various taxonomic groups. Using R, we've conducted a thorough investigation into the correlation between seven key variables, extending our analysis through hypothesis testing and multiple linear regression. The core objective is to compare a new biodiversity metric, BD7 — an average of species richness across Bees, Birds, Hoverflies, Ladybirds, Macromoths, Grasshoppers, and Vascular Plants — with the established BD11, which encompasses a broader spectrum of taxonomic groups. This comparative study aims to enhance our understanding of biodiversity indices and their implications for ecological research.
+
+[Check out my Github Link](https://github.com/Maryam-1/Statistical-Analysis-of-Species-Richness-Biodiversity-Metrics-Analysis-with-R)
+
+<a href="https://github.com/Maryam-1/Statistical-Analysis-of-Species-Richness-Biodiversity-Metrics-Analysis-with-R">
+    <img src="images/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="30" height="30"/>
+</a>
+
+
 
 ---
 
