@@ -52,17 +52,20 @@ This advanced project introduces a Smart Book Recommender System, meticulously c
     <img src="images/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="30" height="30"/>
 </a>
 
+**Detection of Hate Speech using Deep NLP**
+
+
+Hate speech identification involves using algorithms to discern if text is offensive or derogatory. For this initiative, I developed a detection system utilizing PyTorch to enhance a BERT model through fine-tuning techniques.
+
+[Check out my Colab Notebook](https://colab.research.google.com/drive/1hHn4xAACR8J32h6VvGQi3F96SZDHcYmM?usp=sharing)
+
+<a href="https://colab.research.google.com/drive/1hHn4xAACR8J32h6VvGQi3F96SZDHcYmM?usp=sharing">
+    <img src="images/colab.png" alt="GitHub" width="30" height="30"/>
+</a>
 
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
