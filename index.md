@@ -19,6 +19,9 @@ This project represents a significant stride in medical imaging and cancer class
 
 [![GitHub](images/GitHub-Mark-ea2971cee799.png)](https://github.com/Maryam-1/End-to-End-Chest-Cancer-Classification-using-MLflow-DVC)
 
+<a href="https://github.com/Maryam-1/End-to-End-Chest-Cancer-Classification-using-MLflow-DVC">
+    <img src="images/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="30" height="30"/>
+</a>
 
 
 
