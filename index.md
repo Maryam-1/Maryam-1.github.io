@@ -17,7 +17,7 @@ This project is a deep dive into predictive analytics within the UK real estate 
 
 This project represents a significant stride in medical imaging and cancer classification, focusing on chest cancer detection using the VGG16 model, a renowned architecture in deep learning along with advanced data management using DVC and lifecycle tracking through MLflow. A key feature of this project is the development and deployment of a user-friendly web application, hosted on AWS, facilitating real-time, accessible cancer classification based on chest imaging. This deployment on AWS ensures scalable and reliable access to the application, underscoring the project's commitment to applying cutting-edge machine learning techniques in a real-world, accessible manner. The project stands as a testament to the potential of deep learning in enhancing medical diagnostic practices.
 
-[![GitHub](images/GitHub-Mark-ea2971cee799.png)](https://github.com/Maryam-1/End-to-End-Chest-Cancer-Classification-using-MLflow-DVC)
+[Check out my Github Link](https://github.com/Maryam-1/End-to-End-Chest-Cancer-Classification-using-MLflow-DVC)
 
 <a href="https://github.com/Maryam-1/End-to-End-Chest-Cancer-Classification-using-MLflow-DVC">
     <img src="images/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="30" height="30"/>
