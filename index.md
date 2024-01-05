@@ -42,6 +42,16 @@ This project delves into the intricacies of biodiversity by examining proportion
     <img src="images/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="30" height="30"/>
 </a>
 
+**Books Recommendation System**
+
+This advanced project introduces a Smart Book Recommender System, meticulously crafted to transform how readers discover their next favorite book. Utilizing sophisticated algorithms that combine the strengths of collaborative filtering and content-based recommendations, the system excels in curating a personalized list of books. It seamlessly adapts to user feedback and reading habits, continuously refining its suggestions. Beyond mere recommendations, the system fosters a deeper engagement with literature, guiding users through an expansive universe of genres, authors, and narratives that align with their unique literary palate. This endeavor highlights the synergy between technology and the timeless love for reading.
+
+[Check out my Github Link](https://github.com/Maryam-1/books-recommendation-system)
+
+<a href="https://github.com/Maryam-1/books-recommendation-system">
+    <img src="images/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="30" height="30"/>
+</a>
+
 
 
 ---
