@@ -63,6 +63,11 @@ Hate speech identification involves using algorithms to discern if text is offen
     <img src="images/colab.png" alt="GitHub" width="30" height="30"/>
 </a>
 
+**Cryptocurrency Market Analysis Dashboard in PowerBI**
+
+<img src="images/WhatsApp Image 2024-01-07 at 14.18.00.jpeg" alt="App Image"/>
+
+This Power BI dashboard offers an in-depth visualization of cryptocurrency market dynamics, capturing the volatile essence of digital assets. It provides a year-wise market capitalization analysis, juxtaposed against volume trends, to reveal the liquidity and investment patterns in the market. Core metrics such as the highest value attained, average market performance, and lowest price points are elegantly displayed, offering a snapshot of market extremes and variances. The dashboard is thoughtfully designed to cater to stakeholders interested in understanding the historical performance and potential forecasting of cryptocurrency valuations, making it an indispensable tool for strategic investment planning.
 
 ---
 
