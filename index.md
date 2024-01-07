@@ -71,12 +71,4 @@ This Power BI dashboard offers an in-depth visualization of cryptocurrency marke
 
 ---
 
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
